@@ -1,4 +1,5 @@
 Learning Software development.
 1) Started working for ColoredCow.
 2) Started learning git and github.
-3) 
+3) learned basic git commands.
+4) learning git remote and git push.
