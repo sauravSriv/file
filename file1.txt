@@ -1,0 +1,4 @@
+Learning Software development.
+1) Started working for ColoredCow.
+2) Started learning git and github.
+3) 
